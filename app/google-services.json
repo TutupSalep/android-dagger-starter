@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "758006642152",
+    "firebase_url": "https://android-dagger-starter.firebaseio.com",
+    "project_id": "android-dagger-starter",
+    "storage_bucket": "android-dagger-starter.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:758006642152:android:98145d8d1c6b19d7",
+        "android_client_info": {
+          "package_name": "com.rakasettya.daggerstarter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "758006642152-ckgknj1jfrh3k4387ki5l21gjtdrufs1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.rakasettya.daggerstarter",
+            "certificate_hash": "6de95fe95d03ba4eb6b9e829ad11161eeaad35cd"
+          }
+        },
+        {
+          "client_id": "758006642152-sorplevp81uh060ai3aeh6p39el6qvs8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCK6yVjLlxswZn05ngIqoaLLc6VoDLUTy4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "758006642152-sorplevp81uh060ai3aeh6p39el6qvs8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
